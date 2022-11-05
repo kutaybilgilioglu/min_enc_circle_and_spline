@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667683077 source:c:\users\akuta\desktop\c projeleri\min_enc_circle_and_b_spline\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
